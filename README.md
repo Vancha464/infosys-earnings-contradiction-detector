@@ -45,6 +45,7 @@ PDF Transcripts (Q1, Q2, Q3 FY26)
   Groq API (llama-3.1-8b-instant) → Structured Verdict
         ↓
   ipywidgets UI (verdict + source chunks + similarity scores)
+
 ```
 
 ## Design Decisions
@@ -142,4 +143,4 @@ Transcripts are sourced from:
 
 Vancha Garg  
 B.Tech CSE (Bioinformatics), VIT Vellore  
-[LinkedIn](#) | [GitHub](#)
+https://www.linkedin.com/in/vanchagarg64/ | https://github.com/Vancha464
